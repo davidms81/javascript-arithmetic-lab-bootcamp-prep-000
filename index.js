@@ -15,3 +15,15 @@ function add(a, b) {
 }
 
 add()
+
+function subtract(a, b) {
+  return a - b
+}
+
+subtract()
+
+function multiply(a, b) {
+  return a * b
+}
+
+multiply()
