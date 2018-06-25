@@ -27,3 +27,15 @@ function multiply(a, b) {
 }
 
 multiply()
+
+function divide(a, b) {
+  return a / b
+}
+
+divide()
+
+function inc(n) {
+  return n++
+}
+
+inc()
