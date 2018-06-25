@@ -9,3 +9,9 @@ function divideBy3() {
 }
 
 divideBy3()
+
+function add(a, b) {
+  a += b
+}
+
+add()
