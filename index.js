@@ -39,3 +39,9 @@ function inc(n) {
 }
 
 inc()
+
+function dec(n) {
+  n -= 1
+}
+
+dec()
