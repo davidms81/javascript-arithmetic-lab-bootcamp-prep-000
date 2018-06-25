@@ -51,3 +51,9 @@ function makeInt(n) {
 }
 
 makeInt()
+
+function preserveDecimal(n) {
+  return parseInt(n)
+}
+
+preserveDecimal()
