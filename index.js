@@ -35,7 +35,7 @@ function divide(a, b) {
 divide()
 
 function inc(n) {
-  return n++
+  return n += 1
 }
 
 inc()
